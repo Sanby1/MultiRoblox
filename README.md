@@ -2,13 +2,13 @@
 
 # 🚀 HOW TO DOWNLOAD AND USE
 
-1. Click on the "1 Tag" under the Releases section on the right side.
+1. Click on the Releases section on the right side of the page.
 
-2. On the next page, click where it says Download.
+2. Scroll down to the Assets section.
 
-3. Scroll down and find the Assets section, then download the S.MultiRoblox.exe file.
+3. Download either S.MultiRoblox.exe or S.MultiRoblox.rar.
 
-4. The program comes pre-installed (portable); no setup is required, just run it.
+4. The program is portable; no setup is required, just run it.
 
 5. Once the program is open, you can open as many Roblox accounts as you want!
 
